@@ -1,6 +1,6 @@
 using System.Net.Http.Json;
-   using System.Text.Json;
-   using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
+using System.Text.Json;
+using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
    
    namespace BlazorAuthentication.Client.Services
    {
